@@ -1,0 +1,57 @@
+[
+    {
+      "number_of_seats": 30,
+      "name": "הליכוד",
+      "absolute_url": "/party/27/",
+      "is_coalition": true,
+      "knesset_id": 20,
+      "logo": null,
+      "number_of_members": 30,
+      "id": 27,
+      "resource_uri": "/api/v2/party/27/"
+    },
+    {
+      "number_of_seats": 24,
+      "name": "המחנה הציוני ",
+      "absolute_url": "/party/33/",
+      "is_coalition": false,
+      "knesset_id": 20,
+      "logo": null,
+      "number_of_members": 24,
+      "id": 33,
+      "resource_uri": "/api/v2/party/33/"
+    },
+    {
+      "number_of_seats": 13,
+      "name": "הרשימה המשותפת",
+      "absolute_url": "/party/35/",
+      "is_coalition": false,
+      "knesset_id": 20,
+      "logo": null,
+      "number_of_members": 13,
+      "id": 35,
+      "resource_uri": "/api/v2/party/35/"
+    },
+    {
+      "number_of_seats": 11,
+      "name": "יש עתיד",
+      "absolute_url": "/party/29/",
+      "is_coalition": false,
+      "knesset_id": 20,
+      "logo": null,
+      "number_of_members": 11,
+      "id": 29,
+      "resource_uri": "/api/v2/party/29/"
+    },
+    {
+      "number_of_seats": 10,
+      "name": "כולנו",
+      "absolute_url": "/party/32/",
+      "is_coalition": true,
+      "knesset_id": 20,
+      "logo": null,
+      "number_of_members": 10,
+      "id": 32,
+      "resource_uri": "/api/v2/party/32/"
+    }
+  ]

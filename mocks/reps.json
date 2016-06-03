@@ -1,0 +1,62 @@
+ [
+    {
+      "name": "אביגדור יצחקי",
+      "average_weekly_presence_hours": null,
+      "absolute_url": "/member/773/%D7%90%D7%91%D7%99%D7%92%D7%93%D7%95%D7%A8-%D7%99%D7%A6%D7%97%D7%A7%D7%99/",
+      "mmms_count": 1,
+      "bills_stats_first": 0,
+      "bills_stats_proposed": 0,
+      "is_current": false,
+      "img_url": "http://www.knesset.gov.il/mk/images/members/itzchaky_avigdor-s.jpg",
+      "id": 773,
+      "resource_uri": "/api/v2/member/773/"
+    },
+    {
+      "name": "אביגדור ליברמן",
+      "average_weekly_presence_hours": 14.3,
+      "absolute_url": "/member/214/%D7%90%D7%91%D7%99%D7%92%D7%93%D7%95%D7%A8-%D7%9C%D7%99%D7%91%D7%A8%D7%9E%D7%9F/",
+      "mmms_count": 2,
+      "bills_stats_first": 0,
+      "bills_stats_proposed": 63,
+      "is_current": false,
+      "img_url": "http://www.knesset.gov.il/mk/images/members/liberman_avigdor-s.jpg",
+      "id": 214,
+      "resource_uri": "/api/v2/member/214/"
+    },
+    {
+      "name": "אבי וורצמן",
+      "average_weekly_presence_hours": null,
+      "absolute_url": "/member/870/%D7%90%D7%91%D7%99-%D7%95%D7%95%D7%A8%D7%A6%D7%9E%D7%9F/",
+      "mmms_count": 0,
+      "bills_stats_first": 0,
+      "bills_stats_proposed": 0,
+      "is_current": false,
+      "img_url": "http://www.knesset.gov.il/mk/images/members/Wortzman_Avi-s.jpg",
+      "id": 870,
+      "resource_uri": "/api/v2/member/870/"
+    },
+    {
+      "name": "אבי (משה) דיכטר",
+      "average_weekly_presence_hours": null,
+      "absolute_url": "/member/771/%D7%90%D7%91%D7%99-%D7%9E%D7%A9%D7%94-%D7%93%D7%99%D7%9B%D7%98%D7%A8/",
+      "mmms_count": 0,
+      "bills_stats_first": 1,
+      "bills_stats_proposed": 43,
+      "is_current": true,
+      "img_url": "http://www.knesset.gov.il/mk/images/members/dicter_abraham-s.jpg",
+      "id": 771,
+      "resource_uri": "/api/v2/member/771/"
+    },
+    {
+      "name": "אבישי ברוורמן",
+      "average_weekly_presence_hours": 0,
+      "absolute_url": "/member/797/%D7%90%D7%91%D7%99%D7%A9%D7%99-%D7%91%D7%A8%D7%95%D7%95%D7%A8%D7%9E%D7%9F/",
+      "mmms_count": 2,
+      "bills_stats_first": 0,
+      "bills_stats_proposed": 15,
+      "is_current": false,
+      "img_url": "http://www.knesset.gov.il/mk/images/members/braverman_avishay-s.jpg",
+      "id": 797,
+      "resource_uri": "/api/v2/member/797/"
+    }
+  ]
