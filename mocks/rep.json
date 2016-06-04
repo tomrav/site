@@ -1,0 +1,692 @@
+[
+{
+  "residence_economy": null,
+  "links": [
+    {
+      "url": "http://www.kikar.org/member/954",
+      "title": "יגאל גואטה בכיכר המדינה"
+    }
+  ],
+  "average_weekly_presence_rank": 0,
+  "mmms_count": 0,
+  "videos_related": [],
+  "bills_stats_first": 0,
+  "place_of_residence_lon": "",
+  "bills_stats_proposed": 17,
+  "bills_uri": "/api/v2/bill/?proposer=954",
+  "video_about": [],
+  "party_url": "/party/36/",
+  "id": 954,
+  "place_of_residence_lat": "",
+  "average_weekly_presence_hours": null,
+  "resource_uri": "/api/v2/member/954/",
+  "family_status": "",
+  "date_of_birth": null,
+  "detailed_roles": [],
+  "img_url": "http://www.knesset.gov.il/mk/images/members/Yigal_Guetta-s.jpg",
+  "start_date": "2016-01-13",
+  "fax": "",
+  "current_position": 999,
+  "current_role_descriptions": null,
+  "end_date": null,
+  "agendas_uri": "/api/v2/member-agendas/954/",
+  "place_of_birth": "",
+  "date_of_death": null,
+  "phone": "02-6753333",
+  "votes_count": 306,
+  "party_name": "ש”ס",
+  "average_monthly_committee_presence": 11.83,
+  "committees": [
+    [
+      "ועדת העבודה, הרווחה והבריאות",
+      "/committee/10/"
+    ],
+    [
+      "הוועדה המיוחדת לדיון בהצעת חוק הרשות הממשלתית להתחדשות עירונית, בהצעת חוק שירותים פיננסיים חוץ מוסדיים ובהצעת חוק לתיקון פקודת מס הכנסה (מס' 218)",
+      "/committee/30/"
+    ],
+    [
+      "ועדה מיוחדת לזכויות הילד",
+      "/committee/15/"
+    ],
+    [
+      "ועדת הכנסת",
+      "/committee/1/"
+    ],
+    [
+      "ועדת החוקה, חוק ומשפט",
+      "/committee/5/"
+    ]
+  ],
+  "name": "יגאל גואטה",
+  "gender": null,
+  "bills_stats_approved": 0,
+  "residence_centrality": null,
+  "email": "guetta@knesset.gov.il",
+  "is_current": true,
+  "absolute_url": "/member/954/%D7%99%D7%92%D7%90%D7%9C-%D7%92%D7%95%D7%90%D7%98%D7%94/",
+  "year_of_aliyah": null,
+  "place_of_residence": "",
+  "number_of_children": null,
+  "bills_stats_pre": 2
+},
+{
+  "residence_economy": 4,
+  "links": [
+    {
+      "url": "http://www.facebook.com/profile.php?id=1008316119",
+      "title": "יעקב מרגי בפייסבוק"
+    },
+    {
+      "url": "http://www.knesset.gov.il/mk/heb/mk.asp?mk_individual_id_t=751",
+      "title": "יעקב מרגי באתר הכנסת"
+    },
+    {
+      "url": "http://www.kikar.org/member/751",
+      "title": "יעקב מרגי בכיכר המדינה"
+    }
+  ],
+  "average_weekly_presence_rank": 5,
+  "mmms_count": 2,
+  "videos_related": [
+    "/api/v2/video/7503/",
+    "/api/v2/video/8205/",
+    "/api/v2/video/8233/",
+    "/api/v2/video/8234/",
+    "/api/v2/video/9008/",
+    "/api/v2/video/9207/",
+    "/api/v2/video/10170/",
+    "/api/v2/video/10737/",
+    "/api/v2/video/10814/",
+    "/api/v2/video/11298/",
+    "/api/v2/video/13068/",
+    "/api/v2/video/13909/",
+    "/api/v2/video/14967/",
+    "/api/v2/video/15952/",
+    "/api/v2/video/18473/",
+    "/api/v2/video/19006/",
+    "/api/v2/video/19394/"
+  ],
+  "bills_stats_first": 3,
+  "place_of_residence_lon": "34.7125",
+  "bills_stats_proposed": 206,
+  "bills_uri": "/api/v2/bill/?proposer=751",
+  "video_about": [],
+  "party_url": "/party/36/",
+  "id": 751,
+  "place_of_residence_lat": "31.4488889",
+  "average_weekly_presence_hours": 21.3,
+  "resource_uri": "/api/v2/member/751/",
+  "family_status": "נשוי",
+  "date_of_birth": "1960-11-18",
+  "detailed_roles": [
+    {
+      "text": "מקום 4 בשס - התאחדות הספרדים שומרי תורה",
+      "start_date": "2015-01-29",
+      "end_date": null,
+      "org": "הבחירות לכנסת ה-20"
+    },
+    {
+      "text": "השר לשירותי דת",
+      "start_date": "2009-03-31",
+      "end_date": "2013-03-18",
+      "org": "הכנסת השמונה-עשרה: הממשלה ה-32"
+    }
+  ],
+  "img_url": "http://www.knesset.gov.il/mk/images/members/margi_yaakov-s.jpg",
+  "start_date": "2009-02-24",
+  "fax": "02-6408471",
+  "current_position": 7,
+  "current_role_descriptions": "יו\"ר ועדת החינוך, התרבות והספורט",
+  "end_date": null,
+  "agendas_uri": "/api/v2/member-agendas/751/",
+  "place_of_birth": "מרוקו",
+  "date_of_death": null,
+  "phone": "",
+  "votes_count": 3959,
+  "party_name": "ש”ס",
+  "average_monthly_committee_presence": 15.21,
+  "committees": [
+    [
+      "ועדת העבודה, הרווחה והבריאות",
+      "/committee/10/"
+    ],
+    [
+      "ועדת החינוך, התרבות והספורט",
+      "/committee/6/"
+    ],
+    [
+      "ועדה מיוחדת לזכויות הילד",
+      "/committee/15/"
+    ],
+    [
+      "ועדה לענייני ביקורת המדינה",
+      "/committee/7/"
+    ],
+    [
+      "ועדת הכספים",
+      "/committee/9/"
+    ]
+  ],
+  "name": "יעקב מרגי",
+  "gender": "זכר",
+  "bills_stats_approved": 3,
+  "residence_centrality": 4,
+  "email": "ymargi@knesset.gov.il",
+  "is_current": true,
+  "absolute_url": "/member/751/%D7%99%D7%A2%D7%A7%D7%91-%D7%9E%D7%A8%D7%92%D7%99/",
+  "year_of_aliyah": 1962,
+  "place_of_residence": "מושב שדה צבי",
+  "number_of_children": 2,
+  "bills_stats_pre": 24
+},
+{
+  "residence_economy": 4,
+  "links": [
+    {
+      "url": "http://www.facebook.com/profile.php?id=1248913854\n",
+      "title": "יעקב ליצמן בפייסבוק"
+    },
+    {
+      "url": "http://www.knesset.gov.il/mk/heb/mk.asp?mk_individual_id_t=216",
+      "title": "יעקב ליצמן באתר הכנסת"
+    },
+    {
+      "url": "http://www.kikar.org/member/216",
+      "title": "יעקב ליצמן בכיכר המדינה"
+    }
+  ],
+  "average_weekly_presence_rank": 5,
+  "mmms_count": 2,
+  "videos_related": [
+    "/api/v2/video/7500/",
+    "/api/v2/video/8571/",
+    "/api/v2/video/8812/",
+    "/api/v2/video/10147/",
+    "/api/v2/video/10845/",
+    "/api/v2/video/12194/",
+    "/api/v2/video/12662/",
+    "/api/v2/video/13201/",
+    "/api/v2/video/15675/",
+    "/api/v2/video/16930/",
+    "/api/v2/video/18286/",
+    "/api/v2/video/18287/",
+    "/api/v2/video/18288/",
+    "/api/v2/video/18289/",
+    "/api/v2/video/18290/",
+    "/api/v2/video/18291/",
+    "/api/v2/video/18292/",
+    "/api/v2/video/18293/",
+    "/api/v2/video/18294/",
+    "/api/v2/video/18295/",
+    "/api/v2/video/18331/",
+    "/api/v2/video/18512/",
+    "/api/v2/video/18608/",
+    "/api/v2/video/18714/",
+    "/api/v2/video/18893/",
+    "/api/v2/video/19059/",
+    "/api/v2/video/19060/",
+    "/api/v2/video/19210/"
+  ],
+  "bills_stats_first": 0,
+  "place_of_residence_lon": "35.2007",
+  "bills_stats_proposed": 0,
+  "bills_uri": "/api/v2/bill/?proposer=216",
+  "video_about": [],
+  "party_url": "/party/34/",
+  "id": 216,
+  "place_of_residence_lat": "31.7857",
+  "average_weekly_presence_hours": 9.4,
+  "resource_uri": "/api/v2/member/216/",
+  "family_status": "נשוי",
+  "date_of_birth": "1948-09-02",
+  "detailed_roles": [
+    {
+      "text": "מקום 1 ביהדות התורה והשבת  אגודת ישראל - דגל התורה",
+      "start_date": "2015-01-29",
+      "end_date": null,
+      "org": "הבחירות לכנסת ה-20"
+    },
+    {
+      "text": "סגן שר הבריאות",
+      "start_date": "2009-04-06",
+      "end_date": "2013-03-18",
+      "org": "הכנסת השמונה-עשרה: הממשלה ה-32"
+    }
+  ],
+  "img_url": "http://www.knesset.gov.il/mk/images/members/lizman_yaakov-s.jpg",
+  "start_date": "2009-02-24",
+  "fax": "02-6753730",
+  "current_position": 1,
+  "current_role_descriptions": "שר הבריאות",
+  "end_date": null,
+  "agendas_uri": "/api/v2/member-agendas/216/",
+  "place_of_birth": "גרמניה",
+  "date_of_death": null,
+  "phone": "",
+  "votes_count": 2680,
+  "party_name": "יהדות התורה",
+  "average_monthly_committee_presence": 5.51,
+  "committees": [
+    [
+      "ועדת הכספים",
+      "/committee/9/"
+    ],
+    [
+      "ועדת העבודה, הרווחה והבריאות",
+      "/committee/10/"
+    ],
+    [
+      "ועדה לענייני ביקורת המדינה",
+      "/committee/7/"
+    ],
+    [
+      "ועדת הכלכלה",
+      "/committee/2/"
+    ],
+    [
+      "ועדת הכנסת",
+      "/committee/1/"
+    ]
+  ],
+  "name": "יעקב ליצמן",
+  "gender": "זכר",
+  "bills_stats_approved": 0,
+  "residence_centrality": 9,
+  "email": "ylitzman@knesset.gov.il",
+  "is_current": true,
+  "absolute_url": "/member/216/%D7%99%D7%A2%D7%A7%D7%91-%D7%9C%D7%99%D7%A6%D7%9E%D7%9F/",
+  "year_of_aliyah": null,
+  "place_of_residence": "ירושלים",
+  "number_of_children": 5,
+  "bills_stats_pre": 0
+},
+{
+  "residence_economy": 4,
+  "links": [
+    {
+      "url": "http://www.facebook.com/profile.php?id=1248913854\n",
+      "title": "יעקב ליצמן בפייסבוק"
+    },
+    {
+      "url": "http://www.knesset.gov.il/mk/heb/mk.asp?mk_individual_id_t=216",
+      "title": "יעקב ליצמן באתר הכנסת"
+    },
+    {
+      "url": "http://www.kikar.org/member/216",
+      "title": "יעקב ליצמן בכיכר המדינה"
+    }
+  ],
+  "average_weekly_presence_rank": 5,
+  "mmms_count": 2,
+  "videos_related": [
+    "/api/v2/video/7500/",
+    "/api/v2/video/8571/",
+    "/api/v2/video/8812/",
+    "/api/v2/video/10147/",
+    "/api/v2/video/10845/",
+    "/api/v2/video/12194/",
+    "/api/v2/video/12662/",
+    "/api/v2/video/13201/",
+    "/api/v2/video/15675/",
+    "/api/v2/video/16930/",
+    "/api/v2/video/18286/",
+    "/api/v2/video/18287/",
+    "/api/v2/video/18288/",
+    "/api/v2/video/18289/",
+    "/api/v2/video/18290/",
+    "/api/v2/video/18291/",
+    "/api/v2/video/18292/",
+    "/api/v2/video/18293/",
+    "/api/v2/video/18294/",
+    "/api/v2/video/18295/",
+    "/api/v2/video/18331/",
+    "/api/v2/video/18512/",
+    "/api/v2/video/18608/",
+    "/api/v2/video/18714/",
+    "/api/v2/video/18893/",
+    "/api/v2/video/19059/",
+    "/api/v2/video/19060/",
+    "/api/v2/video/19210/"
+  ],
+  "bills_stats_first": 0,
+  "place_of_residence_lon": "35.2007",
+  "bills_stats_proposed": 0,
+  "bills_uri": "/api/v2/bill/?proposer=216",
+  "video_about": [],
+  "party_url": "/party/34/",
+  "id": 216,
+  "place_of_residence_lat": "31.7857",
+  "average_weekly_presence_hours": 9.4,
+  "resource_uri": "/api/v2/member/216/",
+  "family_status": "נשוי",
+  "date_of_birth": "1948-09-02",
+  "detailed_roles": [
+    {
+      "text": "מקום 1 ביהדות התורה והשבת  אגודת ישראל - דגל התורה",
+      "start_date": "2015-01-29",
+      "end_date": null,
+      "org": "הבחירות לכנסת ה-20"
+    },
+    {
+      "text": "סגן שר הבריאות",
+      "start_date": "2009-04-06",
+      "end_date": "2013-03-18",
+      "org": "הכנסת השמונה-עשרה: הממשלה ה-32"
+    }
+  ],
+  "img_url": "http://www.knesset.gov.il/mk/images/members/lizman_yaakov-s.jpg",
+  "start_date": "2009-02-24",
+  "fax": "02-6753730",
+  "current_position": 1,
+  "current_role_descriptions": "שר הבריאות",
+  "end_date": null,
+  "agendas_uri": "/api/v2/member-agendas/216/",
+  "place_of_birth": "גרמניה",
+  "date_of_death": null,
+  "phone": "",
+  "votes_count": 2680,
+  "party_name": "יהדות התורה",
+  "average_monthly_committee_presence": 5.51,
+  "committees": [
+    [
+      "ועדת הכספים",
+      "/committee/9/"
+    ],
+    [
+      "ועדת העבודה, הרווחה והבריאות",
+      "/committee/10/"
+    ],
+    [
+      "ועדה לענייני ביקורת המדינה",
+      "/committee/7/"
+    ],
+    [
+      "ועדת הכלכלה",
+      "/committee/2/"
+    ],
+    [
+      "ועדת הכנסת",
+      "/committee/1/"
+    ]
+  ],
+  "name": "יעקב ליצמן",
+  "gender": "זכר",
+  "bills_stats_approved": 0,
+  "residence_centrality": 9,
+  "email": "ylitzman@knesset.gov.il",
+  "is_current": true,
+  "absolute_url": "/member/216/%D7%99%D7%A2%D7%A7%D7%91-%D7%9C%D7%99%D7%A6%D7%9E%D7%9F/",
+  "year_of_aliyah": null,
+  "place_of_residence": "ירושלים",
+  "number_of_children": 5,
+  "bills_stats_pre": 0
+},
+{
+  "residence_economy": null,
+  "links": [
+    {
+      "url": "https://www.facebook.com/michal.rozin/",
+      "title": "מיכל רוזין בפייסבוק"
+    },
+    {
+      "url": "http://www.kikar.org/member/895",
+      "title": "מיכל רוזין בכיכר המדינה"
+    }
+  ],
+  "average_weekly_presence_rank": 5,
+  "mmms_count": 0,
+  "videos_related": [
+    "/api/v2/video/7545/",
+    "/api/v2/video/7546/",
+    "/api/v2/video/8154/",
+    "/api/v2/video/8404/",
+    "/api/v2/video/8459/",
+    "/api/v2/video/8472/",
+    "/api/v2/video/8496/",
+    "/api/v2/video/8497/",
+    "/api/v2/video/8601/",
+    "/api/v2/video/8602/",
+    "/api/v2/video/8599/",
+    "/api/v2/video/8600/",
+    "/api/v2/video/8635/",
+    "/api/v2/video/8636/",
+    "/api/v2/video/8729/",
+    "/api/v2/video/8815/",
+    "/api/v2/video/8836/",
+    "/api/v2/video/8849/",
+    "/api/v2/video/8864/",
+    "/api/v2/video/9099/",
+    "/api/v2/video/9132/",
+    "/api/v2/video/9267/",
+    "/api/v2/video/9382/",
+    "/api/v2/video/9642/",
+    "/api/v2/video/9643/",
+    "/api/v2/video/9671/",
+    "/api/v2/video/9692/",
+    "/api/v2/video/9735/",
+    "/api/v2/video/9756/",
+    "/api/v2/video/9757/",
+    "/api/v2/video/9831/",
+    "/api/v2/video/9888/",
+    "/api/v2/video/9954/",
+    "/api/v2/video/10186/",
+    "/api/v2/video/10187/",
+    "/api/v2/video/10235/",
+    "/api/v2/video/10416/",
+    "/api/v2/video/10841/",
+    "/api/v2/video/10884/",
+    "/api/v2/video/11065/",
+    "/api/v2/video/11167/",
+    "/api/v2/video/11311/",
+    "/api/v2/video/11319/",
+    "/api/v2/video/11341/",
+    "/api/v2/video/11356/",
+    "/api/v2/video/11357/",
+    "/api/v2/video/11358/",
+    "/api/v2/video/11378/",
+    "/api/v2/video/11404/",
+    "/api/v2/video/11452/",
+    "/api/v2/video/11463/",
+    "/api/v2/video/11464/",
+    "/api/v2/video/11465/",
+    "/api/v2/video/11496/",
+    "/api/v2/video/11497/",
+    "/api/v2/video/11498/",
+    "/api/v2/video/11512/",
+    "/api/v2/video/11545/",
+    "/api/v2/video/11563/",
+    "/api/v2/video/11688/",
+    "/api/v2/video/11857/",
+    "/api/v2/video/11858/",
+    "/api/v2/video/11868/",
+    "/api/v2/video/11883/",
+    "/api/v2/video/11908/",
+    "/api/v2/video/11952/",
+    "/api/v2/video/12005/",
+    "/api/v2/video/12006/",
+    "/api/v2/video/12036/",
+    "/api/v2/video/12049/",
+    "/api/v2/video/12077/",
+    "/api/v2/video/12123/",
+    "/api/v2/video/12134/",
+    "/api/v2/video/12135/",
+    "/api/v2/video/12201/",
+    "/api/v2/video/12287/",
+    "/api/v2/video/12330/",
+    "/api/v2/video/12445/",
+    "/api/v2/video/12446/",
+    "/api/v2/video/12547/",
+    "/api/v2/video/12585/",
+    "/api/v2/video/12586/",
+    "/api/v2/video/12587/",
+    "/api/v2/video/12620/",
+    "/api/v2/video/12649/",
+    "/api/v2/video/12883/",
+    "/api/v2/video/12884/",
+    "/api/v2/video/12937/",
+    "/api/v2/video/12957/",
+    "/api/v2/video/12971/",
+    "/api/v2/video/12972/",
+    "/api/v2/video/12997/",
+    "/api/v2/video/13045/",
+    "/api/v2/video/13075/",
+    "/api/v2/video/13094/",
+    "/api/v2/video/13095/",
+    "/api/v2/video/13096/",
+    "/api/v2/video/13123/",
+    "/api/v2/video/13124/",
+    "/api/v2/video/13762/",
+    "/api/v2/video/13763/",
+    "/api/v2/video/13783/",
+    "/api/v2/video/13843/",
+    "/api/v2/video/13855/",
+    "/api/v2/video/13867/",
+    "/api/v2/video/13971/",
+    "/api/v2/video/14003/",
+    "/api/v2/video/14004/",
+    "/api/v2/video/14005/",
+    "/api/v2/video/14023/",
+    "/api/v2/video/14261/",
+    "/api/v2/video/14262/",
+    "/api/v2/video/14263/",
+    "/api/v2/video/14264/",
+    "/api/v2/video/14367/",
+    "/api/v2/video/14435/",
+    "/api/v2/video/14762/",
+    "/api/v2/video/14763/",
+    "/api/v2/video/14764/",
+    "/api/v2/video/14851/",
+    "/api/v2/video/14882/",
+    "/api/v2/video/14935/",
+    "/api/v2/video/14936/",
+    "/api/v2/video/14950/",
+    "/api/v2/video/15048/",
+    "/api/v2/video/15054/",
+    "/api/v2/video/15073/",
+    "/api/v2/video/15149/",
+    "/api/v2/video/15222/",
+    "/api/v2/video/15235/",
+    "/api/v2/video/15336/",
+    "/api/v2/video/15538/",
+    "/api/v2/video/15589/",
+    "/api/v2/video/15602/",
+    "/api/v2/video/15636/",
+    "/api/v2/video/15645/",
+    "/api/v2/video/15660/",
+    "/api/v2/video/15661/",
+    "/api/v2/video/15662/",
+    "/api/v2/video/15676/",
+    "/api/v2/video/15758/",
+    "/api/v2/video/15821/",
+    "/api/v2/video/15955/",
+    "/api/v2/video/15965/",
+    "/api/v2/video/16224/",
+    "/api/v2/video/16225/",
+    "/api/v2/video/16286/",
+    "/api/v2/video/16389/",
+    "/api/v2/video/16390/",
+    "/api/v2/video/16391/",
+    "/api/v2/video/16408/",
+    "/api/v2/video/16409/",
+    "/api/v2/video/16578/",
+    "/api/v2/video/16579/",
+    "/api/v2/video/16600/",
+    "/api/v2/video/16601/",
+    "/api/v2/video/16620/",
+    "/api/v2/video/16657/",
+    "/api/v2/video/16790/",
+    "/api/v2/video/16815/",
+    "/api/v2/video/16850/",
+    "/api/v2/video/17078/",
+    "/api/v2/video/17096/",
+    "/api/v2/video/17224/",
+    "/api/v2/video/17288/",
+    "/api/v2/video/17386/",
+    "/api/v2/video/17387/",
+    "/api/v2/video/17418/",
+    "/api/v2/video/17419/",
+    "/api/v2/video/17638/",
+    "/api/v2/video/17727/",
+    "/api/v2/video/17809/",
+    "/api/v2/video/18006/",
+    "/api/v2/video/18069/",
+    "/api/v2/video/18070/",
+    "/api/v2/video/18099/",
+    "/api/v2/video/18723/",
+    "/api/v2/video/18756/"
+  ],
+  "bills_stats_first": 5,
+  "place_of_residence_lon": "",
+  "bills_stats_proposed": 334,
+  "bills_uri": "/api/v2/bill/?proposer=895",
+  "video_about": [],
+  "party_url": "/party/28/",
+  "id": 895,
+  "place_of_residence_lat": "",
+  "average_weekly_presence_hours": 17.3,
+  "resource_uri": "/api/v2/member/895/",
+  "family_status": "נשואה",
+  "date_of_birth": "1969-06-25",
+  "detailed_roles": [
+    {
+      "text": "מקום 4 בשמאל של ישראל",
+      "start_date": "2015-01-29",
+      "end_date": null,
+      "org": "הבחירות לכנסת ה-20"
+    },
+    {
+      "text": "מנכ\"לית איגוד מרכזי הסיוע בארץ",
+      "start_date": null,
+      "end_date": null,
+      "org": ""
+    }
+  ],
+  "img_url": "http://www.knesset.gov.il/mk/images/members/Rozin_Michal-s.jpg",
+  "start_date": "2013-02-05",
+  "fax": "02-6408910",
+  "current_position": 4,
+  "current_role_descriptions": null,
+  "end_date": null,
+  "agendas_uri": "/api/v2/member-agendas/895/",
+  "place_of_birth": "",
+  "date_of_death": null,
+  "phone": "",
+  "votes_count": 2585,
+  "party_name": "מרצ",
+  "average_monthly_committee_presence": 17.16,
+  "committees": [
+    [
+      "ועדת הכלכלה",
+      "/committee/2/"
+    ],
+    [
+      "ועדת החוקה, חוק ומשפט",
+      "/committee/5/"
+    ],
+    [
+      "ועדת הפנים והגנת הסביבה",
+      "/committee/4/"
+    ],
+    [
+      "ועדה לקידום מעמד האישה ולשוויון מגדרי",
+      "/committee/11/"
+    ],
+    [
+      "ועדה מיוחדת לבעיית העובדים הזרים",
+      "/committee/12/"
+    ]
+  ],
+  "name": "מיכל רוזין",
+  "gender": "נקבה",
+  "bills_stats_approved": 4,
+  "residence_centrality": null,
+  "email": "mrozin@knesset.gov.il",
+  "is_current": true,
+  "absolute_url": "/member/895/%D7%9E%D7%99%D7%9B%D7%9C-%D7%A8%D7%95%D7%96%D7%99%D7%9F/",
+  "year_of_aliyah": null,
+  "place_of_residence": "פתח תקווה",
+  "number_of_children": 3,
+  "bills_stats_pre": 20
+}
+]
