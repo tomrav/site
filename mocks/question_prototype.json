@@ -1,0 +1,21 @@
+/* Prototype for Question object we will use to create, store and display "question of the day"*/
+var Question = {
+    title:          string,
+    description:    string,
+    date:           datetime,
+    parties:             //store list of all the parties and their votes 
+    {
+        id:         num,
+        name:       string,
+        for:        num, //for votes count 
+        against:    num, //count votes against
+        total:      num  //count total votes
+    }
+    publicVotes : 
+    {
+        for:        num, //for votes count of public
+        against:    num, // against " " " "
+        total:      num
+    }
+}
+/* add any and all properties you think we should add */
