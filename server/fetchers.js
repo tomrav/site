@@ -1,15 +1,23 @@
 const http = require('http');
 const https = require('https');
 const fs = require('fs');
+const FETCHTYPES = {
+  REPS: { name: 'reps', index: 0, query: 'https://www.oknesset.org/api/v2/member/?is_current=true',
+          filename: 'reps.json' },
+  PARTY: { name: 'party', index: 1, query: 'https://www.oknesset.org/api/v2/party/?format=json',
+          filename: 'parties.json' },
+  VOTE: { name: 'vote', index: 2, query: 'https://www.oknesset.org/api/v2/vote/?format=json',
+          filename: 'votes.json' },
+};
 
-function parseData(data, res) {
-  var memberData = '';
+function parseData(data, res, filename) {
+  let responseString = '';
   data.on('data', (chunk) => {
-    memberData += chunk;
+    responseString += chunk;
   });
   data.on('end', () => {
-    var jsonFile = JSON.parse(memberData.substring(11, memberData.length - 80));
-    fs.writeFile('C:\\Users\\jonco\\projects\\Tzibur\\site\\test\\members.json', JSON.stringify(jsonFile), (err) => {
+    const jsonFile = JSON.parse(responseString.substring(11, responseString.lastIndexOf(']') + 1));
+    fs.writeFile(filename, JSON.stringify(jsonFile), (err) => {
       if (err) {
         console.log(err);
       }
@@ -18,14 +26,16 @@ function parseData(data, res) {
   res.end();
 }
 
-function getMembers(res) {
-  const options = 'https://www.oknesset.org/api/v2/member/?is_current=true';
-  const filename = 'members.json';
-  https.get(options, (req) => {
-    parseData(req, res);
+function getOkData(res, fetchType, filename) {
+  https.get(fetchType, (req) => {
+    parseData(req, res, filename);
   }).end();
 }
 
 http.createServer((req, res) => {
-  getMembers(res);
+  for (var fetchName in FETCHTYPES) {
+    console.log(fetchName);
+    const fetchtype = FETCHTYPES[fetchName];
+    getOkData(res, fetchtype.query, fetchtype.filename);
+  }
 }).listen(8080);
